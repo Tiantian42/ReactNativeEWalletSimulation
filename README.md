@@ -1,4 +1,5 @@
-<img width="462" height="122" alt="image" src="https://github.com/user-attachments/assets/24326ff6-4699-47e6-a324-ff499657c130" />
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/30658b52-be3b-4415-9763-b531649bdc2a" alt="Logo" width="300"/> </p>
 
 # COINNECT E-WALLET SIMULATION
    

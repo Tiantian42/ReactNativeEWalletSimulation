@@ -1,8 +1,4 @@
-
-
-
-![Uploading Screenshot 2026-01-06 220333.png…]()
-
+<img width="462" height="122" alt="image" src="https://github.com/user-attachments/assets/24326ff6-4699-47e6-a324-ff499657c130" />
 
 # COINNECT E-WALLET SIMULATION
    
